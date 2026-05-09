@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Hao Liang avatar placeholder">
+  <rect width="512" height="512" fill="#f3f6fb"/>
+  <circle cx="256" cy="196" r="88" fill="#d7deea"/>
+  <path d="M102 438c20-82 77-128 154-128s134 46 154 128" fill="#d7deea"/>
+  <text x="256" y="477" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700" fill="#40516a">Hao Liang</text>
+</svg>

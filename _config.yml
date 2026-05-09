@@ -6,10 +6,10 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lorem ipsum"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-repository               : "RayeRen/acad-homepage.github.io"
-google_scholar_stats_use_cdn : true
+title                    : "Hao Liang's Homepage"
+description              : "Hao Liang's Homepage"
+repository               : "aeroblaze796/aeroblaze796.github.io"
+# google_scholar_stats_use_cdn : true  # 暂无 Google Scholar 主页，暂时停用学术引用统计。
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Lorem ipsum"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
+  name             : "Hao Liang"
+  avatar           : "images/avatar-hl.svg" # TODO（中文）：之后请替换为你的正式个人照片路径，例如 /images/hao-liang.jpg。
+  bio              : "Undergraduate Student, Beijing Institute of Technology"
   location         : "Beijing, China"
-  employer         :
+  employer         : "Beijing Institute of Technology"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
+  # googlescholar    :  # TODO（中文）：暂无 Google Scholar 主页，后续注册后再填写链接。
+  email            : "haoliang050307@163.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "aeroblaze796"
   google_plus      :
   keybase          :
   instagram        :
