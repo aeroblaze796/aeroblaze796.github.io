@@ -26,11 +26,10 @@ I am seeking **PhD positions for 2027 Fall** and warmly welcome any remote/onsit
 
 # Research Interests
 
-- Multi-agent systems and automated research
-- Large-model reasoning and adaptive inference
-- Computer vision for UAV perception and tracking
-- Robust 3D trajectory estimation under visual degradation
-- Diffusion-based visual logic reasoning
+My academic interests center primarily on Large Language Models (LLMs) and Multi-Agent Systems, with a specific focus on the rigorous reasoning capabilities of LLMs and the executability and robustness of multi-agent systems.
+- **Large Model Reasoning:** Whether applied to language or vision models, endowing them—even under few-shot conditions—with geometric intuition and logical deduction capabilities that transcend mere rote memorization constitutes a core challenge on the path toward Artificial General Intelligence (AGI). I am dedicated to advancing models toward a paradigm of rigorous reasoning—characterized by strong goal-orientation and clear causal chains—through both external mechanisms (such as harness engineering) and internal mechanisms (such as dynamic curriculum learning).
+- **Multi-Agent Systems & Auto Research:** Rather than focusing solely on end-to-end automated scientific research, I am more interested in how to enhance the quality of research ideas—specifically in terms of novelty and practical feasibility—by orchestrating intelligent agents and designing effective workflows. Concurrently, I aim to improve the generalization capabilities of multi-agent systems, enabling their applicability across a broader spectrum of natural science domains to accelerate the pace of scientific discovery.
+- **Computer Vision:** My objective is to construct 2D/3D object detection and trajectory tracking systems that exhibit exceptional robustness and strictly adhere to objective physical laws, even when confronted with real-world uncertainties and severe environmental disturbances.
 
 <span class='anchor' id='-news'></span>
 
