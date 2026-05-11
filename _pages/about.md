@@ -14,7 +14,7 @@ redirect_from:
 
 # About Me
 
-Hello! I am Hao Liang(梁淏), an undergraduate student majoring in **Data Science and Big Data Technology** at **Beijing Institute of Technology(BIT)**, Class of 2023. My current GPA is 90.59/100, and I rank 1st out of 31 students in my major.
+Hello! I am Hao Liang(梁淏), an undergraduate student majoring in **Data Science and Big Data Technology** at **Beijing Institute of Technology(BIT)**, Class of 2023. My current GPA is **90.59/100**, and I rank **1st out of 31** students in my major.
 
 My academic interests primarily center on Large Language Models (LLMs) and Multi-Agent Systems, with a particular focus on **the rigorous reasoning capabilities of LLMs** and **the executability and robustness of multi-agent systems**. Recently, I have become deeply fascinated by AI-driven **automated scientific research** and the construction of corresponding workflows. Earlier in my career, I also engaged in research related to **computer vision**.
 
