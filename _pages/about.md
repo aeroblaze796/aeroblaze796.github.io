@@ -86,7 +86,7 @@ Our system combined masked diffusion, dynamic difficulty-aware curriculum learni
 
 # Education
 
-**Beijing Institute of Technology** (北京理工大学)
+**Beijing Institute of Technology** (北京理工大学)</br>
 *B.E. in Data Science and Big Data Technology | Sep. 2023 - Jun. 2027 expected*
 
 <span class='anchor' id='-honors-and-awards'></span>
