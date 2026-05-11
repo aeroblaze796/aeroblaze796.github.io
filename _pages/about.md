@@ -86,14 +86,9 @@ Our system combined masked diffusion, dynamic difficulty-aware curriculum learni
 
 # Education
 
-**Beijing Institute of Technology**<br>
-*B.E. in Data Science and Big Data Technology | Sep. 2023 - Jun. 2027 expected*
+**Beijing Institute of Technology** (北京理工大学)
 
-- GPA: 90.59/100
-- Ranking: 1/31
-- Core AI and CS courses: Programming Methods (100), Machine Learning (99), Data Warehouse and Data Mining (98), Web Development Basics (97), Reinforcement Learning (96), Computer Organization and Architecture (95), Interactive Computer Graphics (95), Digital Logic Basics (93), Object-Oriented Technology and Methods (90)
-- Mathematical foundation: Mathematical Foundations of Data Science (99), Probability and Statistics (96), Linear Algebra (94), Engineering Mathematical Analysis (93, 93), University Physics (94, 92)
-- English proficiency: CET-4 627, CET-6 570
+*B.E. in Data Science and Big Data Technology | Sep. 2023 - Jun. 2027 expected*
 
 <span class='anchor' id='-honors-and-awards'></span>
 
