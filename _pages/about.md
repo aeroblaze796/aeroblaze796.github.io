@@ -86,23 +86,26 @@ Our system combined masked diffusion, dynamic difficulty-aware curriculum learni
 
 # Education
 
-**Beijing Institute of Technology** (北京理工大学)</br>
-*B.E. in Data Science and Big Data Technology | Sep. 2023 - Jun. 2027 expected*
+- **Beijing Institute of Technology** (北京理工大学)</br>
+B.E. in Data Science and Big Data Technology | Sep. 2023 - Jun. 2027 expected
 
 <span class='anchor' id='-honors-and-awards'></span>
 
 # Honors and Awards
 
-- *2025*: Bronze Medal, ARC Prize 2025
-- *2025*: National Second Prize, National College Mathematics Competition
-- *2025*: National Third Prize, National Computer Competence Challenge
-- *2025*: Beijing Municipal Second Prize, National College Mathematics Competition
-- *2024*: Beijing Municipal Third Prize, National College Mathematics Competition
-- *2025*: Provincial/Municipal Third Prize, National Computer Competence Challenge (2 awards)
-- *2024*: Provincial/Municipal Third Prize, National Computer Competence Challenge (2 awards)
-- *2025*: National Scholarship
-- First Prize, BIT Undergraduate Scholarship for Outstanding Students
-- University-level Outstanding Student, Beijing Institute of Technology
+- *2026.05*: Meritorious Winner, U.S. Undergraduate Mathematical Modeling Contest (International-Level)
+- *2026.03*: First Prize, BIT Undergraduate Scholarship for Outstanding Students (School-Level)
+- *2025.12*: National Scholarship (National-Level)
+- *2025.12*: Third Prize, The 36th Beijing University Student Mathematics Competition (Provincial-Level)
+- *2025.12*: Outstanding Student, Beijing Institute of Technology (School-Level)
+- *2025.11*: Bronze Medal, Kaggle ARC Prize 2025 (International-Level)
+- *2025.11*: Third Prize, The 7th National Collegiate Computer Proficiency Challenge (2 awards) (Provincial-Level)
+- *2025.03*: First Prize, BIT Undergraduate Scholarship for Outstanding Students (School-Level)
+- *2024.12*: Second Prize, The 16th National College Student Mathematics Competition (National-Level)
+- *2024.12*: Second Prize, The 35th Beijing University Student Mathematics Competition (Provincial-Level)
+- *2024.12*: The 40th National University Physics Competition in Selected Regions (Provincial-Level)
+- *2024.11*: Third Prize, The 6th National Collegiate Computer Proficiency Challenge (2 awards) (Provincial-Level)
+- *2024.09*: First Prize, BIT Undergraduate Scholarship for Outstanding Students (School-Level)
 
 <!-- TODO（中文）：国家级数学竞赛、北京市数学竞赛等奖项在不同材料中表述略有差异；此处按科研实践材料优先整理，后续可根据证书精确改名。 -->
 <!-- TODO（中文）：BIT 校内优秀学生奖和校级优秀学生的具体获奖年份未在材料中明确展示，暂时不写年份。 -->
