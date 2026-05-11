@@ -35,11 +35,10 @@ My academic interests center primarily on Large Language Models (LLMs) and Multi
 
 # News
 
-- *2026.05*: I started building my academic homepage.
-- *2026*: One paper on automated research idea generation and novelty auditing is being prepared for submission to NeurIPS 2026, where I serve as a co-first author.
-- *2026*: One paper on robust drone trajectory estimation has been submitted to IROS 2026, where I serve as the third author.
-- *2025*: Our team won a Bronze Medal in ARC Prize 2025, ranking 118th among 1,456 teams globally.
-- *2025*: I received the National Scholarship.
+- *2026.05*: One paper on automated research idea generation and novelty auditing is being prepared for submission to EMNLP 2026, where I serve as a co-first author.
+- *2026.03*: One paper on robust drone trajectory estimation has been submitted to IROS 2026, where I serve as the third author.
+- *2025.12*: I received the National Scholarship.
+- *2025.11*: Our team won a Bronze Medal in Kaggle ARC Prize 2025, ranking 118th among 1,456 teams globally.
 
 <!-- TODO（中文）：News 中年份和月份目前只保留材料中明确的信息；若你有准确月份，可继续补充。 -->
 
@@ -86,7 +85,8 @@ Our system combined masked diffusion, dynamic difficulty-aware curriculum learni
 
 # Education
 
-- **Beijing Institute of Technology** (北京理工大学)</br>
+- **Beijing Institute of Technology** (北京理工大学)
+
 B.E. in Data Science and Big Data Technology | Sep. 2023 - Jun. 2027 expected
 
 <span class='anchor' id='-honors-and-awards'></span>
