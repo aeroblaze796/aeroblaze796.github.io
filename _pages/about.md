@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-<!-- TODO（中文）：当前主页根据 main.tex、Personal Statement of Hao Liang.pdf 和科研实践材料.pdf 初稿生成。没有在材料中确认的信息暂时不写或留注释。 -->
 <!-- TODO（中文）：暂无 Google Scholar 主页，所有 Google Scholar 和 citation badge 相关内容已暂时移除。 -->
 
 <span class='anchor' id='about-me'></span>
