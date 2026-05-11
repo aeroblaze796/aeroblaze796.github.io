@@ -113,6 +113,7 @@ Our system combined masked diffusion, dynamic difficulty-aware curriculum learni
 <!-- TODO（中文）：国家级数学竞赛、北京市数学竞赛等奖项在不同材料中表述略有差异；此处按科研实践材料优先整理，后续可根据证书精确改名。 -->
 <!-- TODO（中文）：BIT 校内优秀学生奖和校级优秀学生的具体获奖年份未在材料中明确展示，暂时不写年份。 -->
 
+<!--
 <span class='anchor' id='-skills'></span>
 
 # Skills
@@ -122,7 +123,9 @@ Our system combined masked diffusion, dynamic difficulty-aware curriculum learni
 - Scientific computing and data analysis: NumPy, Pandas, Matplotlib
 - Systems and acceleration: CUDA basics, GPU parallel computing, and low-level deep learning component development
 - Research workflow: literature review, theoretical analysis, codebase construction, experiment design, academic writing, and paper submission
+-->
 
+<!--
 <span class='anchor' id='-contact'></span>
 
 # Contact
@@ -130,4 +133,5 @@ Our system combined masked diffusion, dynamic difficulty-aware curriculum learni
 - Email: [haoliang050307@163.com](mailto:haoliang050307@163.com)
 - GitHub: [aeroblaze796](https://github.com/aeroblaze796)
 
-<!-- TODO（中文）：如果你希望公开微信、备用邮箱、LinkedIn、个人照片或 CV PDF，可以后续补充；当前先不把微信号展示到公开主页。 -->
+TODO（中文）：如果你希望公开微信、备用邮箱、LinkedIn、个人照片或 CV PDF，可以后续补充；当前先不把微信号展示到公开主页。
+-->
