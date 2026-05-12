@@ -42,9 +42,9 @@ My academic interests center primarily on Large Language Models (LLMs) and Multi
 
 <!-- TODO（中文）：News 中年份和月份目前只保留材料中明确的信息；若你有准确月份，可继续补充。 -->
 
-<span class='anchor' id='-research'></span>
+<span class='anchor' id='-publications'></span>
 
-# Research
+# Publications
 
 ## Multi-Agent Systems and Automated Research
 

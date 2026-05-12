@@ -9,10 +9,10 @@ main:
   - title: "News"
     url: "/#-news"
 
-  - title: "Research"
-    url: "/#-research"
+  - title: "Publications"
+    url: "/#-publications"
 
-  - title: "Competition"
+  - title: "Competition and Projects"
     url: "/#-competition"
 
   - title: "Education"
