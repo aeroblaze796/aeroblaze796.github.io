@@ -91,21 +91,75 @@ B.E. in Data Science and Big Data Technology | Sep. 2023 - Jun. 2027 expected
 
 <span class='anchor' id='-honors-and-awards'></span>
 
-# Honors and Awards
+# 🏆 Honors and Awards
 
-- *2026.05*: Meritorious Winner, U.S. Undergraduate Mathematical Modeling Contest (International-Level)
-- *2026.03*: First Prize, BIT Undergraduate Scholarship for Outstanding Students (School-Level)
-- *2025.12*: National Scholarship (National-Level)
-- *2025.12*: Third Prize, The 36th Beijing University Student Mathematics Competition (Provincial-Level)
-- *2025.12*: Outstanding Student, Beijing Institute of Technology (School-Level)
-- *2025.11*: Bronze Medal, Kaggle ARC Prize 2025 (International-Level)
-- *2025.11*: Third Prize, The 7th National Collegiate Computer Proficiency Challenge (2 awards) (Provincial-Level)
-- *2025.03*: First Prize, BIT Undergraduate Scholarship for Outstanding Students (School-Level)
-- *2024.12*: Second Prize, The 16th National College Student Mathematics Competition (National-Level)
-- *2024.12*: Second Prize, The 35th Beijing University Student Mathematics Competition (Provincial-Level)
-- *2024.12*: The 40th National University Physics Competition in Selected Regions (Provincial-Level)
-- *2024.11*: Third Prize, The 6th National Collegiate Computer Proficiency Challenge (2 awards) (Provincial-Level)
-- *2024.09*: First Prize, BIT Undergraduate Scholarship for Outstanding Students (School-Level)
+<div class="award-list">
+  <div class="award-item">
+    <span class="award-date">2026.05</span>
+    <span class="award-title">Meritorious Winner, U.S. Undergraduate Mathematical Modeling Contest</span>
+    <span class="award-level award-level--international">International</span>
+  </div>
+  <div class="award-item">
+    <span class="award-date">2026.03</span>
+    <span class="award-title">First Prize, BIT Undergraduate Scholarship for Outstanding Students</span>
+    <span class="award-level award-level--school">School</span>
+  </div>
+  <div class="award-item">
+    <span class="award-date">2025.12</span>
+    <span class="award-title">National Scholarship</span>
+    <span class="award-level award-level--national">National</span>
+  </div>
+  <div class="award-item">
+    <span class="award-date">2025.12</span>
+    <span class="award-title">Third Prize, The 36th Beijing University Student Mathematics Competition</span>
+    <span class="award-level award-level--provincial">Provincial</span>
+  </div>
+  <div class="award-item">
+    <span class="award-date">2025.12</span>
+    <span class="award-title">Outstanding Student, Beijing Institute of Technology</span>
+    <span class="award-level award-level--school">School</span>
+  </div>
+  <div class="award-item">
+    <span class="award-date">2025.11</span>
+    <span class="award-title">Bronze Medal, Kaggle ARC Prize 2025</span>
+    <span class="award-level award-level--international">International</span>
+  </div>
+  <div class="award-item">
+    <span class="award-date">2025.11</span>
+    <span class="award-title">Third Prize, The 7th National Collegiate Computer Proficiency Challenge (2 awards)</span>
+    <span class="award-level award-level--provincial">Provincial</span>
+  </div>
+  <div class="award-item">
+    <span class="award-date">2025.03</span>
+    <span class="award-title">First Prize, BIT Undergraduate Scholarship for Outstanding Students</span>
+    <span class="award-level award-level--school">School</span>
+  </div>
+  <div class="award-item">
+    <span class="award-date">2024.12</span>
+    <span class="award-title">Second Prize, The 16th National College Student Mathematics Competition</span>
+    <span class="award-level award-level--national">National</span>
+  </div>
+  <div class="award-item">
+    <span class="award-date">2024.12</span>
+    <span class="award-title">Second Prize, The 35th Beijing University Student Mathematics Competition</span>
+    <span class="award-level award-level--provincial">Provincial</span>
+  </div>
+  <div class="award-item">
+    <span class="award-date">2024.12</span>
+    <span class="award-title">The 40th National University Physics Competition in Selected Regions</span>
+    <span class="award-level award-level--provincial">Provincial</span>
+  </div>
+  <div class="award-item">
+    <span class="award-date">2024.11</span>
+    <span class="award-title">Third Prize, The 6th National Collegiate Computer Proficiency Challenge (2 awards)</span>
+    <span class="award-level award-level--provincial">Provincial</span>
+  </div>
+  <div class="award-item">
+    <span class="award-date">2024.09</span>
+    <span class="award-title">First Prize, BIT Undergraduate Scholarship for Outstanding Students</span>
+    <span class="award-level award-level--school">School</span>
+  </div>
+</div>
 
 <!-- TODO（中文）：国家级数学竞赛、北京市数学竞赛等奖项在不同材料中表述略有差异；此处按科研实践材料优先整理，后续可根据证书精确改名。 -->
 <!-- TODO（中文）：BIT 校内优秀学生奖和校级优秀学生的具体获奖年份未在材料中明确展示，暂时不写年份。 -->

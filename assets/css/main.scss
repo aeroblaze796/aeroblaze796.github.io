@@ -107,3 +107,78 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+.award-list {
+    margin-top: 1.25em;
+}
+
+.award-item {
+    display: grid;
+    grid-template-columns: 6.5rem minmax(0, 1fr) 8.25rem;
+    gap: 1.25rem;
+    align-items: center;
+    padding: 1.2em 0;
+    border-bottom: 1px solid $border-color;
+}
+
+.award-date {
+    color: mix(#fff, $gray, 15%);
+    font-family: $serif;
+    font-size: $type-size-4;
+    font-style: italic;
+    white-space: nowrap;
+}
+
+.award-title {
+    min-width: 0;
+}
+
+.award-level {
+    justify-self: end;
+    width: 7.5rem;
+    padding: 0.45em 0;
+    border: 1px solid transparent;
+    border-radius: $border-radius;
+    font-family: $monospace;
+    font-size: $type-size-6;
+    line-height: 1;
+    text-align: center;
+    white-space: nowrap;
+}
+
+.award-level--international {
+    color: #c81e1e;
+    background-color: #fde8e8;
+    border-color: #f8b4b4;
+}
+
+.award-level--national {
+    color: #b45309;
+    background-color: #fff7ed;
+    border-color: #fdba74;
+}
+
+.award-level--provincial {
+    color: #1d4ed8;
+    background-color: #dbeafe;
+    border-color: #93c5fd;
+}
+
+.award-level--school {
+    color: #047857;
+    background-color: #dcfce7;
+    border-color: #86efac;
+}
+
+@include breakpoint(max-width $small) {
+    .award-item {
+        grid-template-columns: 5.5rem minmax(0, 1fr);
+        gap: 0.55rem 1rem;
+        padding: 1em 0;
+    }
+
+    .award-level {
+        grid-column: 2;
+        justify-self: start;
+    }
+}
