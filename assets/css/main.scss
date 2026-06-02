@@ -108,6 +108,75 @@ h1:before, .anchor:before {
     font-size: .8em;
 }
 
+.education-card {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) auto;
+    gap: 1.5rem;
+    align-items: center;
+    margin-top: 1.25em;
+    padding: 1.5em 1.75em;
+    border-left: 4px solid #d71920;
+    border-radius: $border-radius;
+    background-color: #f6f8fa;
+}
+
+.education-card__header {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.75rem;
+    align-items: baseline;
+}
+
+.education-card__school {
+    color: $darker-gray;
+    font-family: $serif;
+    font-size: $type-size-3;
+    font-weight: bold;
+    line-height: 1.25;
+}
+
+.education-card__school-cn {
+    color: $gray;
+    font-family: $serif;
+    font-size: $type-size-5;
+    font-weight: bold;
+}
+
+.education-card__degree {
+    margin-top: 0.65em;
+    color: $dark-gray;
+    font-size: $type-size-4;
+}
+
+.education-card__date {
+    margin-top: 0.65em;
+    color: mix(#fff, $gray, 15%);
+    font-family: $monospace;
+    font-size: $type-size-5;
+}
+
+.education-card__logos {
+    display: flex;
+    gap: 0.75rem;
+    align-items: center;
+}
+
+.education-card__logo-placeholder {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 5rem;
+    aspect-ratio: 1;
+    padding: 0.5rem;
+    border: 1px dashed mix(#fff, $gray, 20%);
+    border-radius: $border-radius;
+    color: $gray;
+    background-color: #fff;
+    font-size: $type-size-7;
+    line-height: 1.2;
+    text-align: center;
+}
+
 .award-list {
     margin-top: 1.25em;
 }
@@ -171,6 +240,20 @@ h1:before, .anchor:before {
 }
 
 @include breakpoint(max-width $small) {
+    .education-card {
+        grid-template-columns: 1fr;
+        gap: 1rem;
+        padding: 1.2em 1.25em;
+    }
+
+    .education-card__logos {
+        justify-content: flex-start;
+    }
+
+    .education-card__logo-placeholder {
+        width: 4.5rem;
+    }
+
     .award-item {
         grid-template-columns: 5.5rem minmax(0, 1fr);
         gap: 0.55rem 1rem;
