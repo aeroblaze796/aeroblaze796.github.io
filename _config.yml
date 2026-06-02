@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Hao Liang"
-  avatar           : "images/avatar-hl.svg" # TODO（中文）：之后请替换为你的正式个人照片路径，例如 /images/hao-liang.jpg。
+  avatar           : "images/hao-liang.jpg"
   bio              : "Undergraduate Student, Beijing Institute of Technology"
   location         : "Beijing, China"
   employer         : "Beijing Institute of Technology"
