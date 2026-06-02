@@ -74,10 +74,10 @@ We proposed a lightweight binocular stereo vision framework for full-trajectory 
 
 <div class="paper-box">
   <div class="paper-box-image">
+    <span class="badge">ARC Prize 2025</span>
     <img src="images/arc-prize-2025.png" alt="ARC Prize 2025 project image">
   </div>
   <div class="paper-box-text">
-    <h2>ARC Prize 2025</h2>
     <p><strong>Few-Shot Visual Logic Solver with Masked Diffusion and Adaptive Inference</strong><br>
     <em>Bronze Medal | Team Leader</em></p>
     <p>I led a team in ARC Prize 2025, where we ranked 118th among 1,456 teams globally and received a Bronze Medal. The challenge focuses on abstract visual reasoning under few-shot settings, requiring models to infer two-dimensional grid transformations from only a small number of examples.</p>
