@@ -72,14 +72,18 @@ We proposed a lightweight binocular stereo vision framework for full-trajectory 
 
 # Competition and Projects
 
-## ARC Prize 2025
-
-**Few-Shot Visual Logic Solver with Masked Diffusion and Adaptive Inference**<br>
-*Bronze Medal | Team Leader*
-
-I led a team in ARC Prize 2025, where we ranked 118th among 1,456 teams globally and received a Bronze Medal. The challenge focuses on abstract visual reasoning under few-shot settings, requiring models to infer two-dimensional grid transformations from only a small number of examples.
-
-Our system combined masked diffusion, dynamic difficulty-aware curriculum learning, two-dimensional spatial priors, and an energy validator-guided search mechanism. This design allowed heuristic search to be embedded into the generation process without test-time weight updates, improving task-directed reasoning while avoiding excessive adaptation cost.
+<div class="paper-box">
+  <div class="paper-box-image">
+    <img src="images/arc-prize-2025.png" alt="ARC Prize 2025 project image">
+  </div>
+  <div class="paper-box-text">
+    <h2>ARC Prize 2025</h2>
+    <p><strong>Few-Shot Visual Logic Solver with Masked Diffusion and Adaptive Inference</strong><br>
+    <em>Bronze Medal | Team Leader</em></p>
+    <p>I led a team in ARC Prize 2025, where we ranked 118th among 1,456 teams globally and received a Bronze Medal. The challenge focuses on abstract visual reasoning under few-shot settings, requiring models to infer two-dimensional grid transformations from only a small number of examples.</p>
+    <p>Our system combined masked diffusion, dynamic difficulty-aware curriculum learning, two-dimensional spatial priors, and an energy validator-guided search mechanism. This design allowed heuristic search to be embedded into the generation process without test-time weight updates, improving task-directed reasoning while avoiding excessive adaptation cost.</p>
+  </div>
+</div>
 
 <span class='anchor' id='-education'></span>
 
