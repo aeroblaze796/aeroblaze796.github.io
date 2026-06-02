@@ -94,12 +94,12 @@ Our system combined masked diffusion, dynamic difficulty-aware curriculum learni
     <div class="education-card__degree">B.E. in Data Science and Big Data Technology</div>
     <div class="education-card__date">Sep. 2023 - Jun. 2027 expected</div>
   </div>
-  <div class="education-card__logos" aria-label="Reserved logo area">
-    <div class="education-card__logo-placeholder">School Logo
-      <img src="images/bit-logo.png" alt="Beijing Institute of Technology logo" style="max-width:100%; max-height:100%; object-fit:contain;">
+  <div class="education-card__logos" aria-label="Logo area">
+    <div class="education-card__logo-placeholder">
+      <img src="images/bit-logo.png" alt="Beijing Institute of Technology logo">
     </div>
-    <div class="education-card__logo-placeholder">College Logo
-      <img src="images/college-logo.png" alt="College logo" style="max-width:100%; max-height:100%; object-fit:contain;">
+    <div class="education-card__logo-placeholder">
+      <img src="images/college-logo.png" alt="College logo">
     </div>
   </div>
 </div>
