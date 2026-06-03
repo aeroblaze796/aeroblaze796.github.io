@@ -57,14 +57,23 @@ The framework asks agents to propose diverse candidate ideas with explicit hypot
 
 <!-- TODO（中文）：论文正式标题、arXiv/OpenReview/项目链接、作者列表目前未在材料中完全确认，待确定后补充。 -->
 
-## Computer Vision and UAV Trajectory Estimation
+<div class="paper-box">
+  <div class="paper-box-image">
+    <span class="badge">IROS 2026</span>
+    <img src="images/IROS-2026.png" alt="IROS 2026 project image">
+  </div>
+  <div class="paper-box-text" markdown="1">
 
-**Geometric-Temporal Fusion for Robust Estimation of Drone Trajectories**<br>
-*Submitted to IROS 2026 | Third Author*
+  **Geometric-Temporal Fusion for Robust Estimation of Drone Trajectories**
 
-This project addresses robust 3D trajectory estimation for highly maneuverable unmanned aerial vehicles under severe visual degradation. The target object is often small, fast-moving, and visually ambiguous, which makes tracking sensitive to motion blur, low contrast, complex backgrounds, and stereo mismatch.
+  <p class="competition-result"><em>Submitted to IROS 2026, Third Author</em></p>
 
-We proposed a lightweight binocular stereo vision framework for full-trajectory estimation. The method combines a motion tracker based on constrained stereo matching, pixel-guided visual encoding that injects sparse geometric priors into dense visual features, and a recurrent state estimation module that couples learned pseudo-measurements with strict kinematic constraints. Experiments reported in the application materials show that the method reduced 3D estimation RMSE by more than 40% on a long-distance outdoor benchmark and achieved 221 FPS while maintaining strong real-time deployment potential.
+  This project addresses robust 3D trajectory estimation for highly maneuverable unmanned aerial vehicles under severe visual degradation. The target object is often small, fast-moving, and visually ambiguous, which makes tracking sensitive to motion blur, low contrast, complex backgrounds, and stereo mismatch.
+
+  We proposed a lightweight binocular stereo vision framework for full-trajectory estimation. The method combines a motion tracker based on constrained stereo matching, pixel-guided visual encoding that injects sparse geometric priors into dense visual features, and a recurrent state estimation module that couples learned pseudo-measurements with strict kinematic constraints. Experiments reported in the application materials show that the method reduced 3D estimation RMSE by more than 40% on a long-distance outdoor benchmark and achieved 221 FPS while maintaining strong real-time deployment potential.
+
+  </div>
+</div>
 
 <!-- TODO（中文）：如果论文后续接收或公开，请补充论文链接、代码链接、数据集链接和完整作者列表。 -->
 
