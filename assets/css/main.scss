@@ -112,6 +112,26 @@ h1:before, .anchor:before {
     color: #c81e1e;
 }
 
+.news-list {
+    margin-top: 1.25em;
+}
+
+.news-item {
+    display: grid;
+    grid-template-columns: 6.5rem minmax(0, 1fr);
+    gap: 1.25rem;
+    align-items: start;
+    padding: 0.35em 0;
+}
+
+.news-content {
+    min-width: 0;
+}
+
+.news-content p {
+    margin: 0;
+}
+
 .paper-box-image.is-placeholder:empty::before {
     content: "Project Image";
     display: flex;
@@ -285,6 +305,11 @@ h1:before, .anchor:before {
         grid-template-columns: 5.5rem minmax(0, 1fr);
         gap: 0.55rem 1rem;
         padding: 0.35em 0;
+    }
+
+    .news-item {
+        grid-template-columns: 5.5rem minmax(0, 1fr);
+        gap: 0.55rem 1rem;
     }
 
     .award-level {
