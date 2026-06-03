@@ -80,8 +80,10 @@ We proposed a lightweight binocular stereo vision framework for full-trajectory 
   <div class="paper-box-text">
     <p><strong>Few-Shot Visual Logic Solver with Masked Diffusion and Adaptive Inference</strong><br>
     <em>Bronze Medal | Team Leader</em></p>
-    <p>I led a team in ARC Prize 2025, where we ranked 118th among 1,456 teams globally and received a Bronze Medal. The challenge focuses on abstract visual reasoning under few-shot settings, requiring models to infer two-dimensional grid transformations from only a small number of examples.</p>
-    <p>Our system combined masked diffusion, dynamic difficulty-aware curriculum learning, two-dimensional spatial priors, and an energy validator-guided search mechanism. This design allowed heuristic search to be embedded into the generation process without test-time weight updates, improving task-directed reasoning while avoiding excessive adaptation cost.</p>
+    <p>We propose a masked diffusion solving framework guided by dynamic curriculum learning and a validator:</p>
+    <p>(1) A dynamic difficulty-aware curriculum learning strategy;</p>
+    <p>(2) A masked diffusion architecture incorporating 2D priors, yielding a non-autoregressive masked diffusion language model;</p>
+    <p>(3) Validator-guided search based on an energy-based validator.</p>
   </div>
 </div>
 
