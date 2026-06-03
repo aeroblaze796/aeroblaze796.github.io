@@ -24,7 +24,7 @@ I am seeking **PhD positions for 2027 Fall** and warmly welcome any remote/onsit
 
 <span class='anchor' id='-research-interests'></span>
 
-# Research Interests
+# 🔍 Research Interests
 
 My academic interests center primarily on Large Language Models (LLMs) and Multi-Agent Systems, with a specific focus on the rigorous reasoning capabilities of LLMs and the executability and robustness of multi-agent systems.
 - **Large Model Reasoning:** A core challenge toward Artificial General Intelligence (AGI) is endowing language and vision models with geometric intuition and logical deduction. These models must transcend mere rote memorization, even under few-shot conditions. My research is dedicated to advancing models toward a paradigm of rigorous reasoning, characterized by strong goal-orientation and clear causal chains. To achieve this, I explore both external mechanisms (such as harness engineering) and internal mechanisms (such as dynamic curriculum learning).
@@ -33,7 +33,7 @@ My academic interests center primarily on Large Language Models (LLMs) and Multi
 
 <span class='anchor' id='-news'></span>
 
-# News
+# 🔥 News
 
 - *2026.05*: One paper on automated research idea generation and novelty auditing is being prepared for submission to EMNLP 2026, where I serve as a co-first author.
 - *2026.03*: One paper on robust drone trajectory estimation has been submitted to IROS 2026, where I serve as the third author.
@@ -44,7 +44,7 @@ My academic interests center primarily on Large Language Models (LLMs) and Multi
 
 <span class='anchor' id='-publications'></span>
 
-# Publications
+# 📚 Publications
 
 <div class="paper-box">
   <div class="paper-box-image">
