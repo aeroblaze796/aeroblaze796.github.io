@@ -35,10 +35,10 @@ My academic interests center primarily on Large Language Models (LLMs) and Multi
 
 # 🔥 News
 
-- *2026.05*: One paper on automated research idea generation and novelty auditing is being prepared for submission to EMNLP 2026, where I serve as a co-first author.
-- *2026.03*: One paper on robust drone trajectory estimation has been submitted to IROS 2026, where I serve as the third author.
-- *2025.12*: I received the National Scholarship.
-- *2025.11*: Our team won a Bronze Medal in Kaggle ARC Prize 2025, ranking 118th among 1,456 teams globally.
+- *2026.05*: 📝📝 Our paper ***When Idea Generation Scales: Idea-Level Evaluation for Autonomous Scientific Discovery*** has been submitted to EMNLP 2026, where I serve as the first author.
+- *2026.03*: 📝📝 Our paper ***Geometric-Temporal Fusion for Robust Estimation of Drone Trajectories*** has been submitted to IROS 2026, where I serve as the third author.
+- *2025.12*: 🏆🏆 I received the National Scholarship.
+- *2025.11*: 🥉🥉 Our team won a Bronze Medal in Kaggle ARC Prize 2025, ranking 118th among 1,456 teams globally.
 
 <!-- TODO（中文）：News 中年份和月份目前只保留材料中明确的信息；若你有准确月份，可继续补充。 -->
 
