@@ -81,9 +81,9 @@ My academic interests center primarily on Large Language Models (LLMs) and Multi
 
   This paper proposes a lightweight binocular stereo vision full trajectory estimation framework to achieve high-precision 3D tracking of complex UAVs under severe visual degradation:
   
-  -Binocular association is modeled as a constrained bipartite graph matching problem.
-  -Extracted sparse 2D coordinates are utilized to generate channel-wise affine parameters.
-  -An LSTM model is decoupled from and cascaded with a Kalman filter.
+  - Binocular association is modeled as a constrained bipartite graph matching problem.
+  - Extracted sparse 2D coordinates are utilized to generate channel-wise affine parameters.
+  - An LSTM model is decoupled from and cascaded with a Kalman filter.
 
   </div>
 </div>
