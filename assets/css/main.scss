@@ -108,6 +108,10 @@ h1:before, .anchor:before {
     font-size: .8em;
 }
 
+.competition-result {
+    color: #c81e1e;
+}
+
 .paper-box-image.is-placeholder:empty::before {
     content: "Project Image";
     display: flex;

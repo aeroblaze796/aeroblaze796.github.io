@@ -70,7 +70,7 @@ We proposed a lightweight binocular stereo vision framework for full-trajectory 
 
 <span class='anchor' id='-competition'></span>
 
-# Competition and Projects
+# 🏅 Competition and Projects
 
 <div class="paper-box">
   <div class="paper-box-image">
@@ -81,7 +81,7 @@ We proposed a lightweight binocular stereo vision framework for full-trajectory 
 
   **Few-Shot Visual Logic Solver with Masked Diffusion and Adaptive Inference**
 
-  *Bronze Medal, Team Leader*
+  <p class="competition-result"><em>Bronze Medal (118/1456), Team Leader</em></p>
 
   We propose a masked diffusion solving framework guided by dynamic curriculum learning and a validator:
   - A dynamic difficulty-aware curriculum learning strategy
