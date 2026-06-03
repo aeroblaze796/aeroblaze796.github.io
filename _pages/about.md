@@ -77,13 +77,17 @@ We proposed a lightweight binocular stereo vision framework for full-trajectory 
     <span class="badge">ARC Prize 2025</span>
     <img src="images/arc-prize-2025.png" alt="ARC Prize 2025 project image">
   </div>
-  <div class="paper-box-text">
-    <p><strong>Few-Shot Visual Logic Solver with Masked Diffusion and Adaptive Inference</strong><br>
-    <em>Bronze Medal | Team Leader</em></p>
-    <p>We propose a masked diffusion solving framework guided by dynamic curriculum learning and a validator:</p>
-    <p>(1) A dynamic difficulty-aware curriculum learning strategy;</p>
-    <p>(2) A masked diffusion architecture incorporating 2D priors, yielding a non-autoregressive masked diffusion language model;</p>
-    <p>(3) Validator-guided search based on an energy-based validator.</p>
+  <div class="paper-box-text" markdown="1">
+
+**Few-Shot Visual Logic Solver with Masked Diffusion and Adaptive Inference**
+
+*Bronze Medal, Team Leader*
+
+We propose a masked diffusion solving framework guided by dynamic curriculum learning and a validator:
+- A dynamic difficulty-aware curriculum learning strategy
+- A masked diffusion architecture incorporating 2D priors, yielding a non-autoregressive masked diffusion language model
+- Validator-guided search based on an energy-based validator
+
   </div>
 </div>
 
