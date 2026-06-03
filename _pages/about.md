@@ -38,19 +38,19 @@ My academic interests center primarily on Large Language Models (LLMs) and Multi
 <div class="news-list">
   <div class="news-item">
     <span class="award-date news-date">2026.05</span>
-    <div class="news-content" markdown="1">📝📝 Our paper ***When Idea Generation Scales: Idea-Level Evaluation for Autonomous Scientific Discovery*** has been submitted to EMNLP 2026, where I serve as the first author.</div>
+    <div class="news-content">📝📝 Our paper <strong><em>When Idea Generation Scales: Idea-Level Evaluation for Autonomous Scientific Discovery</em></strong> has been submitted to EMNLP 2026, where I serve as the first author.</div>
   </div>
   <div class="news-item">
     <span class="award-date news-date">2026.03</span>
-    <div class="news-content" markdown="1">📝📝 Our paper ***Geometric-Temporal Fusion for Robust Estimation of Drone Trajectories*** has been submitted to IROS 2026, where I serve as the third author.</div>
+    <div class="news-content">📝📝 Our paper <strong><em>Geometric-Temporal Fusion for Robust Estimation of Drone Trajectories</em></strong> has been submitted to IROS 2026, where I serve as the third author.</div>
   </div>
   <div class="news-item">
     <span class="award-date news-date">2025.12</span>
-    <div class="news-content" markdown="1">🏆🏆 I received the National Scholarship.</div>
+    <div class="news-content">🏆🏆 I received the National Scholarship.</div>
   </div>
   <div class="news-item">
     <span class="award-date news-date">2025.11</span>
-    <div class="news-content" markdown="1">🥉🥉 Our team won a Bronze Medal in Kaggle ARC Prize 2025, ranking 118th among 1,456 teams globally.</div>
+    <div class="news-content">🥉🥉 Our team won a Bronze Medal in Kaggle ARC Prize 2025, ranking 118th among 1,456 teams globally.</div>
   </div>
 </div>
 
