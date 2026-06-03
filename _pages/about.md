@@ -46,14 +46,23 @@ My academic interests center primarily on Large Language Models (LLMs) and Multi
 
 # Publications
 
-## Multi-Agent Systems and Automated Research
+<div class="paper-box">
+  <div class="paper-box-image">
+    <span class="badge">EMNLP 2026</span>
+    <img src="images/EMNLP-2026.png" alt="EMNLP 2026 project image">
+  </div>
+  <div class="paper-box-text" markdown="1">
 
-**Automated Research Framework for Scientific Idea Generation and Novelty Auditing**<br>
-*Prepared for submission to NeurIPS 2026 | Co-first Author*
+  **When Idea Generation Scales: Idea-Level Evaluation for Autonomous Scientific Discovery**
 
-This project studies how large language model agents can generate, evaluate, and expand research ideas in a structured and implementation-oriented manner. Instead of relying on one-shot prompting or subjective self-reflection, our framework directly works from the original research problem and builds a closed-loop process for candidate idea generation, structured review, plan expansion, and novelty auditing.
+  <p class="competition-result"><em>Submitted to EMNLP 2026, First Author</em></p>
 
-The framework asks agents to propose diverse candidate ideas with explicit hypotheses, method keywords, expected advantages, and potential risks. It then ranks candidates by problem alignment, potential improvement, feasibility, novelty, and concreteness. High-quality ideas are further expanded into executable research blueprints, including method pipelines, key modules, training or validation strategies, ablation plans, failure risks, and implementation details. The novelty audit measures semantic diversity, concept-combination rarity, historical co-occurrence, and context-aware differences.
+  This project studies how large language model agents can generate, evaluate, and expand research ideas in a structured and implementation-oriented manner. Instead of relying on one-shot prompting or subjective self-reflection, our framework directly works from the original research problem and builds a closed-loop process for candidate idea generation, structured review, plan expansion, and novelty auditing.
+
+  The framework asks agents to propose diverse candidate ideas with explicit hypotheses, method keywords, expected advantages, and potential risks. It then ranks candidates by problem alignment, potential improvement, feasibility, novelty, and concreteness. High-quality ideas are further expanded into executable research blueprints, including method pipelines, key modules, training or validation strategies, ablation plans, failure risks, and implementation details. The novelty audit measures semantic diversity, concept-combination rarity, historical co-occurrence, and context-aware differences.
+
+  </div>
+</div>
 
 <!-- TODO（中文）：论文正式标题、arXiv/OpenReview/项目链接、作者列表目前未在材料中完全确认，待确定后补充。 -->
 
