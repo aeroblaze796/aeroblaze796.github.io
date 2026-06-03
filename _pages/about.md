@@ -57,9 +57,11 @@ My academic interests center primarily on Large Language Models (LLMs) and Multi
 
   <p class="competition-result"><em>Submitted to EMNLP 2026, First Author</em></p>
 
-  This project studies how large language model agents can generate, evaluate, and expand research ideas in a structured and implementation-oriented manner. Instead of relying on one-shot prompting or subjective self-reflection, our framework directly works from the original research problem and builds a closed-loop process for candidate idea generation, structured review, plan expansion, and novelty auditing.
+  This paper proposes an idea-level generation and evaluation framework that achieves high-precision assessment of complex scientific idea sets without the need for downstream experimental validation:
 
-  The framework asks agents to propose diverse candidate ideas with explicit hypotheses, method keywords, expected advantages, and potential risks. It then ranks candidates by problem alignment, potential improvement, feasibility, novelty, and concreteness. High-quality ideas are further expanded into executable research blueprints, including method pipelines, key modules, training or validation strategies, ablation plans, failure risks, and implementation details. The novelty audit measures semantic diversity, concept-combination rarity, historical co-occurrence, and context-aware differences.
+  - An implementation-oriented idea generation pipeline.
+  - Internal diversity assessment utilizing Semantic Entropy and Context-Aware Diversity.
+  - External atypicality assessment utilizing Normalized Pointwise Mutual Information and Atypicality Z-score.
 
   </div>
 </div>
@@ -77,9 +79,11 @@ My academic interests center primarily on Large Language Models (LLMs) and Multi
 
   <p class="competition-result"><em>Submitted to IROS 2026, Third Author</em></p>
 
-  This project addresses robust 3D trajectory estimation for highly maneuverable unmanned aerial vehicles under severe visual degradation. The target object is often small, fast-moving, and visually ambiguous, which makes tracking sensitive to motion blur, low contrast, complex backgrounds, and stereo mismatch.
-
-  We proposed a lightweight binocular stereo vision framework for full-trajectory estimation. The method combines a motion tracker based on constrained stereo matching, pixel-guided visual encoding that injects sparse geometric priors into dense visual features, and a recurrent state estimation module that couples learned pseudo-measurements with strict kinematic constraints. Experiments reported in the application materials show that the method reduced 3D estimation RMSE by more than 40% on a long-distance outdoor benchmark and achieved 221 FPS while maintaining strong real-time deployment potential.
+  This paper proposes a lightweight binocular stereo vision full trajectory estimation framework to achieve high-precision 3D tracking of complex UAVs under severe visual degradation:
+  
+  -Binocular association is modeled as a constrained bipartite graph matching problem.
+  -Extracted sparse 2D coordinates are utilized to generate channel-wise affine parameters.
+  -An LSTM model is decoupled from and cascaded with a Kalman filter.
 
   </div>
 </div>
@@ -102,9 +106,9 @@ My academic interests center primarily on Large Language Models (LLMs) and Multi
   <p class="competition-result"><em>Bronze Medal (118/1456), Team Leader</em></p>
 
   We propose a masked diffusion solving framework guided by dynamic curriculum learning and a validator:
-  - A dynamic difficulty-aware curriculum learning strategy
-  - A masked diffusion architecture incorporating 2D priors, yielding a non-autoregressive masked diffusion language model
-  - Validator-guided search based on an energy-based validator
+  - A dynamic difficulty-aware curriculum learning strategy.
+  - A masked diffusion architecture incorporating 2D priors, yielding a non-autoregressive masked diffusion language model.
+  - Validator-guided search based on an energy-based validator.
 
   </div>
 </div>
