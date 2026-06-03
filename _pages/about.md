@@ -79,14 +79,14 @@ We proposed a lightweight binocular stereo vision framework for full-trajectory 
   </div>
   <div class="paper-box-text" markdown="1">
 
-**Few-Shot Visual Logic Solver with Masked Diffusion and Adaptive Inference**
+    **Few-Shot Visual Logic Solver with Masked Diffusion and Adaptive Inference**
 
-*Bronze Medal, Team Leader*
+    *Bronze Medal, Team Leader*
 
-We propose a masked diffusion solving framework guided by dynamic curriculum learning and a validator:
-- A dynamic difficulty-aware curriculum learning strategy
-- A masked diffusion architecture incorporating 2D priors, yielding a non-autoregressive masked diffusion language model
-- Validator-guided search based on an energy-based validator
+    We propose a masked diffusion solving framework guided by dynamic curriculum learning and a validator:
+    - A dynamic difficulty-aware curriculum learning strategy
+    - A masked diffusion architecture incorporating 2D priors, yielding a non-autoregressive masked diffusion language model
+    - Validator-guided search based on an energy-based validator
 
   </div>
 </div>
