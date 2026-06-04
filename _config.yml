@@ -22,10 +22,11 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Hao Liang"
+  name_cn          : "梁淏"
   avatar           : "images/hao-liang.jpg"
   bio              : "Undergraduate Student, Beijing Institute of Technology"
   location         : "Beijing, China"
-  employer         : "Beijing Institute of Technology"
+  employer         : "BIT"
   pubmed           : 
   # googlescholar    :  # TODO（中文）：暂无 Google Scholar 主页，后续注册后再填写链接。
   email            : "haoliang050307@163.com"

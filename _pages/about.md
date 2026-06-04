@@ -18,7 +18,7 @@ Hello! I am Hao Liang(梁淏), an undergraduate student majoring in **Data Scien
 
 My academic interests primarily center on Large Language Models (LLMs) and Multi-Agent Systems, with a particular focus on **the rigorous reasoning capabilities of LLMs** and **the executability and robustness of multi-agent systems**. Recently, I have become deeply fascinated by AI-driven **automated scientific research** and the construction of corresponding workflows. Earlier in my career, I also engaged in research related to **computer vision**.
 
-I am seeking **PhD positions for 2027 Fall** and warmly welcome any remote/onsite industrial or research internship. Please feel free to reach out at haoliang050307@163.com.
+I am seeking **PhD positions for 2027 Fall** and warmly welcome any remote/onsite industrial or research internship. Please feel free to reach out at [haoliang050307@163.com](mailto:haoliang050307@163.com).
 
 <!-- TODO（中文）：如果你希望主页面向保研/直博申请，可以在这里补充一句目标方向、意向导师或申请年份；目前材料中没有明确统一版本，先不写。 -->
 

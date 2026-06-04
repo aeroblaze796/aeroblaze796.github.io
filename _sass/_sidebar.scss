@@ -14,7 +14,7 @@
   margin-bottom: 1em;
 
   @include breakpoint($large) {
-    @include span(2 of 12);
+    @include span(3 of 12);
     opacity: 1;
     -webkit-transition: opacity 0.2s ease-in-out;
             transition: opacity 0.2s ease-in-out;
@@ -81,7 +81,7 @@
 .author__avatar {
   display: table-cell;
   vertical-align: top;
-  width: 75px;
+  width: 92px;
   // set width only, for non-square avatars
   // height: 36px;
 
@@ -92,8 +92,8 @@
   }
 
   img {
-    max-width: 175px;
-    min-width: 75px;
+    max-width: 220px;
+    min-width: 92px;
     border-radius: 50%;
 
     @include breakpoint($large) {
@@ -130,17 +130,27 @@
 
 .sidebar .author__name {
   @include breakpoint($medium) {
-    font-size: $type-size-3;
+    font-size: $type-size-2;
   }
-  font-family: $sans-serif;
+  font-family: $serif;
+  font-size: $type-size-3;
+  font-weight: bold;
+  line-height: 1.1;
+}
+
+.author__name-cn {
+  margin: 0.35em 0 0;
+  color: $gray;
+  font-family: $serif;
   font-size: $type-size-4;
+  line-height: 1.2;
 }
 
 .author__bio {
   margin: 0;
 
   @include breakpoint($large) {
-    margin-top: 10px;
+    margin-top: 18px;
     margin-bottom: 20px;
   }
 }
